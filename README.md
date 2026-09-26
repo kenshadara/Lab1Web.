@@ -18,43 +18,43 @@ Mempelajari dasar-dasar HTML, struktur dokumen HTML, penggunaan heading, paragra
 
 Membuat file `index.html` menggunakan struktur HTML5.
 
-*(Masukkan Screenshot 1)*
+![Struktur Dasar HTML](screenshots/a.png)
 
 ### 2. Heading dan Paragraf
 
 Membuat judul menggunakan tag `<h1>` dan `<h2>`, serta paragraf menggunakan tag `<p>`.
 
-*(Masukkan Screenshot 2)*
+![Heading dan Paragraf](screenshots/b.png)
 
 ### 3. Pemformatan Teks
 
 Mencoba penggunaan tag `<b>`, `<i>`, `<strong>`, `<sub>`, `<sup>`, `<mark>`, `<small>`, `<del>`, dan `<ins>`.
 
-*(Masukkan Screenshot 3)*
+![Pemformatan Teks](screenshots/c.png)
 
 ### 4. Menambahkan Gambar
 
 Menampilkan gambar menggunakan tag `<img>` dengan atribut `src`, `width`, `alt`, dan `title`.
 
-*(Masukkan Screenshot 4)*
+![Menambahkan Gambar](screenshots/d.png)
 
 ### 5. Hyperlink
 
 Membuat halaman kedua (`halaman2.html`) dan menghubungkannya dengan halaman utama menggunakan tag `<a>`.
 
-*(Masukkan Screenshot 5 dan Screenshot 6)*
+![Hyperlink](screenshots/e.png)
 
 ### 6. List HTML
 
 Membuat daftar menggunakan unordered list (`<ul>`) dan ordered list (`<ol>`).
 
-*(Masukkan Screenshot 7)*
+![List HTML](screenshots/f.png)
 
 ### 7. Komentar HTML
 
 Menambahkan komentar menggunakan `<!-- -->` sebagai penanda bagian kode.
 
-*(Masukkan Screenshot 8)*
+![Komentar HTML](screenshots/g.png)
 
 ## Kesimpulan
 
